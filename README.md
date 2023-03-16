@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/sudip.jpg" width="350" title="hover text">
+  <img src="images/sudip,jpg" width="350" alt="accessibility text">
+</p>
 - 👋 Hi, I’m @sudipbhr
 - 👀 I’m interested in tech, development
 - 🌱 I’m currently learning: python, django
