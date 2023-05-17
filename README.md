@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  - 👋 Hi, I’m @sudipbhr
+  👋 Hi, I’m @sudipbhr
 </h2>
 <p align="center">
   - 👀 I’m interested in tech, development
