@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  👋 Hi, I’m Sudip Bhandari, @sudipbhr at computers 😊😂🙏
+  👋 Hi, I’m Sudip Bhandari, 😊😂🙏
 </h2>
 <p align="center">
   - 👀 I’m interested in tech, development
