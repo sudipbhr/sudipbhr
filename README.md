@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="images/sudip.JPG" width="250" height="250" title="sudipbhr">
-</p>
-<p align="center">
+
+<h4 align="center">
   - 👋 Hi, I’m @sudipbhr
-</p>
+</h4>
 <p align="center">
   - 👀 I’m interested in tech, development
 </p>
@@ -23,6 +21,5 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=sudipbhr&theme=algolia&show_icons=true)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudipbhr&theme=tokyonight)
 
