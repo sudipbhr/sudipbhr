@@ -1,7 +1,7 @@
 
-<h4 align="center">
+<h2 align="center">
   - 👋 Hi, I’m @sudipbhr
-</h4>
+</h2>
 <p align="center">
   - 👀 I’m interested in tech, development
 </p>
