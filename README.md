@@ -20,6 +20,4 @@
   <a href="https://instagram.com/sudip_bhr" target="blank"><img align="center" src="images/instagram.png" alt="sudip_bhr" height="40" width="40" /></a>&nbsp; &nbsp;
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=sudipbhr&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudipbhr&theme=tokyonight)
 
