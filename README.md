@@ -23,6 +23,7 @@
 <h3 align="center">
   Tools and Languages ⚙️🌍
 </h3>
+
 <p align="center">
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="sudip_bhr" height="40" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain-wordmark.svg" alt="sudip_bhr" height="40" width="40" />
