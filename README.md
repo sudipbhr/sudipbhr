@@ -20,8 +20,29 @@
   <a href="https://instagram.com/sudip_bhr" target="blank"><img align="center" src="images/instagram.png" alt="sudip_bhr" height="40" width="40" /></a>&nbsp; &nbsp;
 </p>
 
+<h3 align="center">
+  Tools and Languages ⚙️🌍
+</h3>
 <p align="center">
-  ### Tools and Languages
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain-wordmark.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="sudip_bhr" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg" alt="sudip_bhr" height="40" width="40" />
+
 </p>
 
 
