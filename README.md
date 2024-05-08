@@ -1,4 +1,5 @@
 
+<img align="center" src="images/cover.png" alt="sudip_bhr" />
 <h2 align="center">
   👋 Hi, I’m Sudip Bhandari, 😊😂🙏
 </h2>
